@@ -2,6 +2,6 @@ display.cpp
 display.h
 displayer_test.cpp
 hw1.pdf
-xlibdemo.cpp
+xlibdemo.c
 gspTest.cpp
 makefile
